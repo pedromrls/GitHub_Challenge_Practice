@@ -1,4 +1,7 @@
 # GitHub_Challenge
+// Right now I'm learning github and I'm loving it so far, I guess I will be using it for my personal projects.
+// I also like the amount of content that you can find in github, I'm finding very usefull learning resources.
+
 GitHub Day 2 Activity Follow each step exactly, in order.      
 
 1. Create a repository named “GitHub_Challenge” on GitHub and choose to include a README.
