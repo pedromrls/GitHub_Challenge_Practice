@@ -1,4 +1,4 @@
-# GitHub_Challenge
+# GitHub_Challenge_practice
 // Right now I'm learning github and I'm loving it so far, I guess I will be using it for my personal projects.
 // I also like the amount of content that you can find in github, I'm finding very usefull learning resources.
 
